@@ -2,6 +2,15 @@
 
 > A Vue.js project
 
+##  图片展示
+![pic1](https://github.com/vivipure/music-app/blob/master/img/1.png)
+![pic2](https://github.com/vivipure/music-app/blob/master/img/2.png)
+![pic3](https://github.com/vivipure/music-app/blob/master/img/3.png)
+![pic4](https://github.com/vivipure/music-app/blob/master/img/4.png)
+![pic5](https://github.com/vivipure/music-app/blob/master/img/5.png)
+![pic6](https://github.com/vivipure/music-app/blob/master/img/6.png)
+
+
 ## Build Setup
 
 ``` bash
@@ -18,4 +27,3 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
