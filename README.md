@@ -3,12 +3,12 @@
 > A Vue.js project
 
 ##  图片展示
-<img width="250" height="450" src="https://github.com/vivipure/music-app/blob/master/img/1.png"/>
-<img width="250" height="450" src="https://github.com/vivipure/music-app/blob/master/img/2.png"/>
-<img width="250" height="450" src="https://github.com/vivipure/music-app/blob/master/img/3.png"/>
-<img width="250" height="450" src="https://github.com/vivipure/music-app/blob/master/img/4.png"/>
-<img width="250" height="450" src="https://github.com/vivipure/music-app/blob/master/img/5.png"/>
-<img width="250" height="450" src="https://github.com/vivipure/music-app/blob/master/img/6.png"/>
+<img width="250" height="450" align="center" src="https://github.com/vivipure/music-app/blob/master/img/1.png"/>
+<img width="250" height="450" align="center" src="https://github.com/vivipure/music-app/blob/master/img/2.png"/>
+<img width="250" height="450" align="center" src="https://github.com/vivipure/music-app/blob/master/img/3.png"/>
+<img width="250" height="450" align="center" src="https://github.com/vivipure/music-app/blob/master/img/4.png"/>
+<img width="250" height="450" align="center" src="https://github.com/vivipure/music-app/blob/master/img/5.png"/>
+<img width="250" height="450" align="center" src="https://github.com/vivipure/music-app/blob/master/img/6.png"/>
 
 
 
