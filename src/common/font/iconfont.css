@@ -1,0 +1,105 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1560869317583'); /* IE9 */
+  src: url('iconfont.eot?t=1560869317583#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,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') format('woff2'),
+  url('iconfont.woff?t=1560869317583') format('woff'),
+  url('iconfont.ttf?t=1560869317583') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1560869317583#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cartfill:before {
+  content: "\e6b9";
+}
+
+.icon-sort:before {
+  content: "\e700";
+}
+
+.icon-play:before {
+  content: "\e610";
+}
+
+.icon-down:before {
+  content: "\e628";
+}
+
+.icon-right:before {
+  content: "\e608";
+}
+
+.icon-back1:before {
+  content: "\e60e";
+}
+
+.icon-home_light:before {
+  content: "\e7d4";
+}
+
+.icon-my_light:before {
+  content: "\e7d5";
+}
+
+.icon-left_b:before {
+  content: "\e696";
+}
+
+.icon-music_shuffle_button:before {
+  content: "\e61d";
+}
+
+.icon-prev:before {
+  content: "\e604";
+}
+
+.icon-pause:before {
+  content: "\e6a3";
+}
+
+.icon-Next:before {
+  content: "\e6a4";
+}
+
+.icon-user:before {
+  content: "\e7ae";
+}
+
+.icon-customerservice:before {
+  content: "\e7ca";
+}
+
+.icon-cloud:before {
+  content: "\e7d9";
+}
+
+.icon-video:before {
+  content: "\e7da";
+}
+
+.icon-menu:before {
+  content: "\e7f4";
+}
+
+.icon-Music-Playlist:before {
+  content: "\e60f";
+}
+
+.icon-24gl-repeat2:before {
+  content: "\ea75";
+}
+
+.icon-loop-single:before {
+  content: "\e639";
+}
+
+.icon-address:before {
+  content: "\e697";
+}
+
