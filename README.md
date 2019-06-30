@@ -3,12 +3,8 @@
 > A Vue.js project
 
 ##  图片展示
-![pic1](https://github.com/vivipure/music-app/blob/master/img/1.png)
-![pic2](https://github.com/vivipure/music-app/blob/master/img/2.png)
-![pic3](https://github.com/vivipure/music-app/blob/master/img/3.png)
-![pic4](https://github.com/vivipure/music-app/blob/master/img/4.png)
-![pic5](https://github.com/vivipure/music-app/blob/master/img/5.png)
-![pic6](https://github.com/vivipure/music-app/blob/master/img/6.png)
+<img width="150" height="150" src="https://github.com/vivipure/music-app/blob/master/img/1.png"/>
+
 
 
 ## Build Setup
